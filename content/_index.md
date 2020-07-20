@@ -1,4 +1,5 @@
 ---
+title: 'Coming Soon...'
 date: 2020-07-21T00:43:31+09:00
 draft: true
 ---
