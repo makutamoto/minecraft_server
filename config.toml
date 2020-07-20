@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "マインクラフト幕田元鯖"
+theme = "ananke"
